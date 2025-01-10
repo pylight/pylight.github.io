@@ -1,0 +1,245 @@
+﻿<!DOCTYPE html>
+<html lang="de-DE">
+<head>
+	<!-- suchmaschinen infos -->
+    <meta charset="UTF-8">
+    <meta name="description" content="Das extra gro&szlig;e K&ouml;rnerkissen! Der Dinkel verteilt sich ideal um den K&ouml;rper und kann besonders viel &amp; lange W&auml;rme (oder K&auml;lte) speichern. Ideal auch als Geschenk zu Weihnachten, Geburtstag und anderen Anl&auml;ssen!" />
+    <meta property="og:title" content="Die Dinkelmaus - Das Geschenk f&uuml;r Gro&szlig; und Klein!"/>
+    <meta property="og:site_name" content="Die-Dinkelmaus.de"/>
+    <meta property="og:url" content="https://www.die-dinkelmaus.de"/>
+
+    <!-- stylesheets -->
+    <link href="https://netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="../css/bootstrap.css" media="screen" rel="stylesheet" type="text/css" />
+    <link href='../css/Indie-Flower.css' rel='stylesheet' type='text/css'>
+    <link href="../scripts/boxer/jquery.fs.boxer.css" media="screen" rel="stylesheet" type="text/css" />
+    <link href="../css/style.css" media="screen" rel="stylesheet" type="text/css" />
+    <link href="../scripts/nailthumb/jquery.nailthumb.1.1.min.css" type="text/css" />
+
+    <!-- other resources -->
+    <link rel="shortcut icon" href="../images/favicon.png">
+
+    <title>Die Dinkelmaus - Das Geschenk f&uuml;r Gro&szlig; und Klein!</title>
+</head>
+
+<body>
+    <div id="logo">
+        <a href="startseite.html"><img src="../images/logo.png" alt="Die-Dinkelmaus.de" /></a>
+        <img class="fRight" src="../images/feedback_hinweis.png" alt="Ihre Meinung ist uns wichtig!" />
+    </div>
+    <div class="header">
+        <div class="nav">
+            <ul class="fLeft">
+                <li id="homebutton"><a class="btn btn-success" href="startseite.html">Startseite <i class="fa fa-home"></i></a></li>
+            </ul>
+            <ul class="fRight">
+				<!-- guestbook button -->
+                <li><a id="guestbookLink" href="guestbook.html"><span class="btn btn-info">G&auml;stebuch <i class="fa fa-comments"></i></span></a></li>
+				
+                <!-- visitenkarte button -->
+                <li><a id="cardLink" href="visitenkarte.html"><span class="btn btn-primary">Visitenkarte <i class="fa fa-th-large"></i></span></a></li>
+           </ul>
+
+
+        </div>
+    </div>
+
+    <div class="main">
+
+        <div id="sideImage"></div>
+        <div id="content">
+            <noscript>
+                <div id="nojswarning" class="alert alert-danger">
+                In ihrem Browser ist <b>JavaScript deaktiviert</b> oder sie besitzen einen veralteten Browser! <br />
+                Um diese Website nutzen zu können, stellen Sie bitte sicher, dass Javascript aktiviert ist. <br/>
+                Eine Anleitung, wie Sie JavaScript in Ihrem Browser einschalten können, befindet sich
+                <a href="https://www.enable-javascript.com/de/" target="_blank">hier</a>.
+                </div>
+            </noscript>
+
+<div class="news">
+<span class="date">22.12.2022</span>
+<span class="date" style="color:darkred; font-weight:bold;font-size: 1.5em">Dinkelmäuse sind vorrätig können aber auch nach Wunsch hergestellt werden</span>
+<ul>
+</ul>
+</div>
+
+            <h2 class="mousefont">Varianten und Preise</h2>
+
+<table class="preisTable">
+    <tr>
+        <th>Beispiel</th>
+        <th>Bestell- <br> Nummer </th>
+        <th>Variante</th>
+        <th>Preis</th>
+    </tr>
+
+<tr>
+        <td><img src="../images/055-Dima-rot-Fische.jpg" alt="" width="270" height="180" /></td>
+        <td> 055 </td>
+        <td>Dinkelmaus , rot - mit Fischen <br>(mit 1200g reinem Dinkel)</td>
+        <td>36,00€ <br>  30,00€ </td> <td>incl. Versand <br> (bei Abholung)</td    
+</tr>
+
+    <tr>
+        <td><img src="../images/056-rot-Sterne-4.jpg" alt="" width="270" height="180" /></td>
+        <td> 056 </td>
+        <td>Dinkelmaus , rot, mit Sternen<br>(mit 1200g reinem Dinkel)</td>
+        <td>36,00€ <br>  30,00€ </td> <td>incl. Versand <br> (bei Abholung)</td>
+    </tr>
+
+    <tr>
+        <td><img src="../images/057-rot-Blumen-4.jpg" alt="" width="270" height="180" /></td>
+        <td> 057 </td>
+        <td>Dinkelmaus , rot , Blumen<br>(mit 1200g reinem Dinkel)</td>
+        <td>36,00€ <br>  30,00€ </td> <td>incl. Versand <br> (bei Abholung)</td>
+        <td></td>
+    </tr>
+
+    <tr>
+        <td><img src="../images/058-blau-Sterne.jpg" alt="" width="270" height="180" /></td>
+        <td> 058 </td>
+        <td>Dinkelmaus , blau mit Sternen 2 <br>(mit 1200g reinem Dinkel)</td>
+        <td>36,00€ <br>  30,00€ </td> <td>incl. Versand <br> (bei Abholung)</td>
+        <td></td>
+    </tr>
+
+    <tr>
+        <td><img src="../images/059-blau-Ornament.jpg" alt="" width="270" height="180" /></td>
+        <td> 006 </td>
+        <td>Dinkelmaus , rot - mit Ornamenten <br>(mit 1200g reinem Dinkel)</td>
+        <td>36,00€ <br>  30,00€ </td> <td>incl. Versand <br> (bei Abholung)</td>
+    </tr>
+
+    <tr>
+        <td><img src="../images/060-bal-Karo-2.jpg" alt="" width="270" height="180" /></td>
+        <td> 007 </td>
+        <td>Dinkelmaus , balu mit Karo-2 <br>(mit 1200g reinem Dinkel)</td>
+        <td>36,00€ <br>  30,00€ </td> <td>incl. Versand <br> (bei Abholung)</td>
+    </tr>
+
+    <tr>
+        <td><img src="../images/061-blau-Karo-1.jpg" alt="" width="270" height="180" /></td>
+        <td> 008 </td>
+        <td>Dinkelmaus - blau mit Karo-1 <br>(mit 1200g reinem Dinkel)</td>
+        <td>36,00€ <br>  30,00€ </td> <td>incl. Versand <br> (bei Abholung)</td>
+    </tr>
+
+    <tr>
+        <td><img src="../images/062-balu-Quadrate.jpg" alt="" width="270" height="180" /></td>
+        <td> 062 </td>
+        <td>Dinkelmaus - blau - mit Quadraten <br>(mit 1200g reinem Dinkel)</td>
+        <td>36,00€ <br>  30,00€ </td> <td>incl. Versand <br> (bei Abholung)</td>
+    </tr>
+
+    <tr>
+        <td><img src="../images/063-rot-Nikolaus.jpg" alt="" width="270" height="180" /></td>
+        <td> 010 </td>
+        <td>Dinkelmaus - rot mit Nikoläusen <br>(mit 1200g reinem Dinkel)</td>
+        <td>36,00€ <br>  30,00€ </td> <td>incl. Versand <br> (bei Abholung)</td>
+    </tr>
+
+    <tr>
+        <td><img src="../images/064-rot-Katzen.jpg" alt="" width="270" height="180" /></td>
+        <td> 064 </td>
+        <td>Dinkelmaus - rot mit Katzenmotiv <br>(mit 1200g reinem Dinkel)</td>
+        <td>36,00€ <br>  30,00€ </td> <td>incl. Versand <br> (bei Abholung)</td>
+    </tr>
+<tr>
+        <td><img src="../images/020-DiMa-rot-Punkte-1.jpg" alt="" width="240" height="160" /></td>
+        <td> 020 </td>
+        <td>Dinkelmaus - Rot - mit Punkten - Version 1 <br>(mit 1200g reinem Dinkel)</td>
+        <td>36,00€ <br>  30,00€ </td> <td>incl. Versand <br> (bei Abholung)</td>
+        <td>aktuell ist diese Dinkelmaus nicht verf&uumlgbar</td>
+    </tr>  
+
+<tr>
+        <td><img src="../images/020a-Dima-rot-Punkte1.jpg" alt="" width="240" height="160" /></td>
+        <td> 020 </td>
+        <td>Dinkelmaus - Rot - mit Punkten Version - 2 <br>(mit 1200g reinem Dinkel)</td>
+        <td>36,00€ <br>  30,00€ </td> <td>incl. Versand <br> (bei Abholung)</td>
+        <td>aktuell ist diese Dinkelmaus nicht verf&uumlgbar</td>
+    </tr>      
+<tr>
+        <td><img src="../images/022-DiMa-rot-patchwork.jpg" alt="" width="240" height="160" /></td>
+        <td> 022 </td>
+        <td>Dinkelmaus - Rot - mit Patchworkmuster <br>(mit 1200g reinem Dinkel)</td>
+        <td>36,00€ <br>  30,00€ </td> <td>incl. Versand <br> (bei Abholung)</td>
+        <td>aktuell ist diese Dinkelmaus nicht verf&uumlgbar</td>
+    </tr>
+<tr>
+        <td><img src="../images/024-DiMa-rot-Karo3.jpg" alt="" width="240" height="160" /></td>
+        <td> 024 </td>
+        <td>Dinkelmaus - Rot - mit breiten Karos <br>(mit 1200g reinem Dinkel)</td>
+        <td>36,00€ <br>  30,00€ </td> <td>incl. Versand <br> (bei Abholung)</td>
+        <td>aktuell ist diese Dinkelmaus nicht verf&uumlgbar</td>
+    </tr>
+
+<tr>
+        <td><img src="../images/055-Dima-rot-Fische3.jpg" alt="" width="240" height="166" /></td>
+        <td> 026 </td>
+        <td>Dinkelmaus - Rot mit Herzen auf Leinen   <br>(mit 1200g reinem Dinkel)</td>
+        <td>36,00€ <br>  30,00€ </td> <td>incl. Versand <br> (bei Abholung)</td>
+        <td>aktuell ist diese Dinkelmaus nicht verf&uumlgbar</td>
+    </tr>
+<
+  <tr>
+        <td><img src="../images/variante_herz.jpg" alt="" width="240" height="160" /></td>
+        <td> 014 </td>
+        <td>Dinkelherzen <br>(gefüllt mit Dinkel im Spelz)</td>
+        <td><span style="color: red; ">9€</span> </td>
+    </tr>
+
+
+
+</table>
+
+
+<h3 class="mousefont"><b>Interesse?</b> Spezielle Wünsche?</h3>
+<p>Gerne können Sie bei uns eine Dinkelmaus bestellen,
+natürlich auch mit speziellen Design-Wünschen. Sende Sie uns dazu einfach
+ihre <b>Wunschliste</b> sowie Ihre Adresse über das <a href="kontakt-mail.html" id="kontakt" style="margin: 0">Kontaktformular</a>.
+Bei speziellen Design-Wünschen machen wir Ihnen natürlich auch ein persönliches Angebot. Weitere Inspiration können Sie sich in unserer <a href="bilder-impressionen.html">Bildergallerie</a> holen.
+Gerne sind wir bereit bei <b>Aktionen</b> oder entsprechender Stückanzahl einen <b>Mengenrabatt</b> anzubieten.
+Die Dinkelmaus eignet sich wunderbar als <b>Geschenk</b>, beispielsweise zu <b>Weihnachten</b>, als <b>Mitarbeiter-Geschenke</b>
+    (wenn Ihnen als Chef die Gesundheit Ihrer Kollegen am Herzen liegt <i class="fa fa-smile-o"></i>) oder zum <b>Geburtstag</b>.
+Alle Artikel auf dieser Seite werden privat angeboten, wir gehen deshalb immer auf Ihre Wünsche ein - schreiben Sie uns einfach!
+
+</p>
+
+            
+        </div>
+
+    </div>
+
+    <div class="footer mousefont">
+        <span class="linkcolor">Copyright 2014 - <span id="year">2018</span></span> | <a href="#impressum" class="boxer">Impressum</a> | <a href="/others/Datenschutzerklärung_dinkelmaus.pdf">Datenschutzerkl&auml;rung</a>
+    </div>
+
+    <!-- hidden classes for query popups/dialogs -->
+    <div id="impressum" class="hidden boxer"></div>
+
+    <!-- scripts -->
+   <script type="text/javascript" src="../scripts/jquery.js"></script> <!-- jquery version 1.11.0 -->
+   <script type="text/javascript" src="../scripts/bootstrap.js"></script>
+   <script type="text/javascript" src="../scripts/boxer/jquery.fs.boxer.js"></script>
+   <script type="text/javascript" src="../scripts/nailthumb/jquery.nailthumb.1.1.min.js"></script>
+   <script type="text/javascript" src="../scripts/jqueryScripts.js"></script>
+
+    <!-- Piwik -->
+    <script type="text/javascript">
+        var _paq = _paq || [];
+        _paq.push(['trackPageView']);
+        _paq.push(['enableLinkTracking']);
+        (function() {
+            var u="//ganz-sicher.net/piwik/";
+            _paq.push(['setTrackerUrl', u+'piwik.php']);
+            _paq.push(['setSiteId', 1]);
+            var d=document, g=d.createElement('script'), s=d.getElementsByTagName('script')[0];
+            g.type='text/javascript'; g.async=true; g.defer=true; g.src=u+'piwik.js'; s.parentNode.insertBefore(g,s);
+        })();
+    </script>
+    <noscript><p><img src="//ganz-sicher.net/piwik/piwik.php?idsite=1" style="border:0;" alt="" /></p></noscript>
+    <!-- End Piwik Code -->
+</body>
+</html>
